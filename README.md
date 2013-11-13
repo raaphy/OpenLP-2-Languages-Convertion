@@ -11,3 +11,9 @@ OpenLP
 5.2 select (14E) and drag (on the black point) the selection as long as youre l$
 5.2 copy (10E-XD) into a texteditor, and save the file as *.sng, (All Files)
 
+If you want to convert a sng file with two languages to a  openlp compatible file use the converter.jar:
+1. Start a Console or CMD
+2. java -jar '/path/to/converter.jar' -formatlang '/path/to/existing/songbeamer.sng  /path/to/new/file.sng
+3. Import the new file to openlp
+
+
